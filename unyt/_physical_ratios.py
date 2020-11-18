@@ -100,7 +100,7 @@ planck_mks = 6.62606957e-34
 mu_0 = 4.0e-7 * np.pi
 # permittivity of Free Space
 eps_0 = 1.0 / (speed_of_light_m_per_s ** 2 * mu_0)
-avogadros_number = 6.02214085774 * 10 ** 23
+avogadros_number = 6.02214076 * 10 ** 23
 
 # temperature / energy
 boltzmann_constant_J_per_K = 1.3806488e-23
